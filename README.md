@@ -1,4 +1,5 @@
 # ResolveX — Full-Stack MERN Complaint Management System
+document https://drive.google.com/drive/folders/16_rZ9sqOmzm5JdL0JwFTZwthEgFgUne5
 
 A production-grade, enterprise-ready **MERN (MongoDB, Express.js, React.js, Node.js)** web application built to simplify grievance lodging, automate resolution workflows, facilitate bidirectional real-time user-agent communication with **Socket.io**, and provide visual analytical intelligence for administrators.
 
